@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210433064667",
+    "project_id": "automate-99b6e",
+    "storage_bucket": "automate-99b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210433064667:android:8d5af345bdd86f539f56fe",
+        "android_client_info": {
+          "package_name": "com.example.pos_auto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210433064667-8itfoe58v1hmtd9d9cas1m3vshjnl979.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHL7y46HtMPoM6E21FTfGcuju_yEy6XUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210433064667-8itfoe58v1hmtd9d9cas1m3vshjnl979.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
